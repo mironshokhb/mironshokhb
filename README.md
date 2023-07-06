@@ -1,3 +1,5 @@
+<img src="https://media1.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47io693rwhjhi1ml0gm9h5flsaae7i4a7zfehgnym4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="400" />&nbsp; &nbsp; &nbsp; &nbsp;<img src= "https://media3.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif?cid=ecf05e477amxvmv4okni3jbjx293hhdkskqy6q9r7uvg8pbv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="400" />&nbsp;
+
 ## Hello! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30" /> My name is [Mironshokh Bakhranov](https://www.linkedin.com/in/mironshokh-bakhranov/),  I`m QA Automation Engineer 💻
 
 ## I developed this project to demonstrate some skills I have and here is list of tools I used:
